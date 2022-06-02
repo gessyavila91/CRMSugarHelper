@@ -1,0 +1,12 @@
+{
+    "name": "getsemani.avila/crm-sugar-helper",
+    "description": "CRMSugarHelper",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Getsemaní Ávila",
+            "email": "getsemani.avila@claseazul.com"
+        }
+    ],
+    "require": {}
+}
